@@ -1,4 +1,4 @@
-us code;
+vs code;
 using System;
 public class Exemplo{
     public static void Main(){
