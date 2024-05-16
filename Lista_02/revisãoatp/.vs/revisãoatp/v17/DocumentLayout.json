@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 02\\revis\u00E3oatp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AB01EA-EC89-450F-9056-6DBDF698BCEC}|revis\u00E3oatp\\revis\u00E3oatp.csproj|c:\\users\\ludmi\\desktop\\atp\\lista 02\\revis\u00E3oatp\\revis\u00E3oatp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AB01EA-EC89-450F-9056-6DBDF698BCEC}|revis\u00E3oatp\\revis\u00E3oatp.csproj|solutionrelative:revis\u00E3oatp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 02\\revis\u00E3oatp\\revis\u00E3oatp\\Program.cs",
+              "RelativeDocumentMoniker": "revis\u00E3oatp\\Program.cs",
+              "ToolTip": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 02\\revis\u00E3oatp\\revis\u00E3oatp\\Program.cs",
+              "RelativeToolTip": "revis\u00E3oatp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:49:44.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

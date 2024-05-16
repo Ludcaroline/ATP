@@ -1,0 +1,14 @@
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\bin\Debug\net8.0\exercicio04.exe
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\bin\Debug\net8.0\exercicio04.deps.json
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\bin\Debug\net8.0\exercicio04.runtimeconfig.json
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\bin\Debug\net8.0\exercicio04.dll
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\bin\Debug\net8.0\exercicio04.pdb
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\exercicio04.AssemblyInfoInputs.cache
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\exercicio04.AssemblyInfo.cs
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\exercicio04.dll
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\refint\exercicio04.dll
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\exercicio04.pdb
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\exercicio04.genruntimeconfig.cache
+C:\Users\ludmi\Desktop\ATP\Lista 03\exercicio04\exercicio04\obj\Debug\net8.0\ref\exercicio04.dll

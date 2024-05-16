@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista_03\\exercicio08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8A83D-C03B-4BAB-9F43-2BAE0FA87C75}|exercicio08\\exercicio08.csproj|c:\\users\\ludmi\\desktop\\atp\\lista_03\\exercicio08\\exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8A83D-C03B-4BAB-9F43-2BAE0FA87C75}|exercicio08\\exercicio08.csproj|solutionrelative:exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista_03\\exercicio08\\exercicio08\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio08\\Program.cs",
+              "ToolTip": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista_03\\exercicio08\\exercicio08\\Program.cs",
+              "RelativeToolTip": "exercicio08\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:56:14.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
