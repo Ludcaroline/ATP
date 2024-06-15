@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 03\\exercicio09\\exercicio09\\exercicio09.csproj",
+      "projectUniqueName": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio09\\exercicio09\\exercicio09.csproj",
       "projectName": "exercicio09",
-      "projectPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 03\\exercicio09\\exercicio09\\exercicio09.csproj",
+      "projectPath": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio09\\exercicio09\\exercicio09.csproj",
       "packagesPath": "C:\\Users\\ludmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 03\\exercicio09\\exercicio09\\obj\\",
+      "outputPath": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio09\\exercicio09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ludmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

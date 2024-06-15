@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 02\\exercicio2\\exercicio02\\exercicio02.csproj": {}
+    "C:\\Users\\ludmi\\Documents\\ATP\\Lista_02\\exercicio2\\exercicio02\\exercicio02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 02\\exercicio2\\exercicio02\\exercicio02.csproj": {
+    "C:\\Users\\ludmi\\Documents\\ATP\\Lista_02\\exercicio2\\exercicio02\\exercicio02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 02\\exercicio2\\exercicio02\\exercicio02.csproj",
+        "projectUniqueName": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_02\\exercicio2\\exercicio02\\exercicio02.csproj",
         "projectName": "exercicio02",
-        "projectPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 02\\exercicio2\\exercicio02\\exercicio02.csproj",
+        "projectPath": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_02\\exercicio2\\exercicio02\\exercicio02.csproj",
         "packagesPath": "C:\\Users\\ludmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 02\\exercicio2\\exercicio02\\obj\\",
+        "outputPath": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_02\\exercicio2\\exercicio02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ludmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

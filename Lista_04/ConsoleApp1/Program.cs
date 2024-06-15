@@ -2,8 +2,7 @@
 using System;
 /*classe principal, com chamada das outras classes(execícios), por meio do switch para as opções selecionadas. 
 Repetição while para rodar o programa*/
-public class Program
-{
+public class Lista04{
     public static void Main()
     {
         while (true)

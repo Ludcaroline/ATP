@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista_03\\exercicio07\\",
+  "WorkspaceRootPath": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{374FAD33-9617-4E3F-BFB4-4258DA69747E}|exercicio07\\exercicio07.csproj|c:\\users\\ludmi\\desktop\\atp\\lista_03\\exercicio07\\exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{374FAD33-9617-4E3F-BFB4-4258DA69747E}|exercicio07\\exercicio07.csproj|c:\\users\\ludmi\\documents\\atp\\lista_03\\exercicio07\\exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{374FAD33-9617-4E3F-BFB4-4258DA69747E}|exercicio07\\exercicio07.csproj|solutionrelative:exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista_03\\exercicio07\\exercicio07\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio07\\exercicio07\\Program.cs",
               "RelativeDocumentMoniker": "exercicio07\\Program.cs",
-              "ToolTip": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista_03\\exercicio07\\exercicio07\\Program.cs",
+              "ToolTip": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio07\\exercicio07\\Program.cs",
               "RelativeToolTip": "exercicio07\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

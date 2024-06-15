@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 03\\exercicio10\\exercicio10\\exercicio10.csproj": {}
+    "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio10\\exercicio10\\exercicio10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 03\\exercicio10\\exercicio10\\exercicio10.csproj": {
+    "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio10\\exercicio10\\exercicio10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 03\\exercicio10\\exercicio10\\exercicio10.csproj",
+        "projectUniqueName": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio10\\exercicio10\\exercicio10.csproj",
         "projectName": "exercicio10",
-        "projectPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 03\\exercicio10\\exercicio10\\exercicio10.csproj",
+        "projectPath": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio10\\exercicio10\\exercicio10.csproj",
         "packagesPath": "C:\\Users\\ludmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludmi\\Desktop\\ATP\\Lista 03\\exercicio10\\exercicio10\\obj\\",
+        "outputPath": "C:\\Users\\ludmi\\Documents\\ATP\\Lista_03\\exercicio10\\exercicio10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ludmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
