@@ -31,7 +31,7 @@ class Exercicio01{
 
         //impressão da resultado do menor vetor e sua posição
         Console.WriteLine();
-        Console.WriteLine($"O menor elemento de N é {M} e sua posição dentro do vetor é:{P}");
+        Console.WriteLine($"O menor elemento de N é {M} e sua posição dentro do vetor é: {P}");
         Console.WriteLine();
     }
 }

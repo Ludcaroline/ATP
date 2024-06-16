@@ -1,8 +1,3 @@
-/*Faça um procedimento que preencha um vetor com as notas de uma turma de 10 alunos. Faça
-um outro procedimento que receba um vetor preenchido com as notas, calcule a média da
-turma e conte quantos alunos obtiveram nota acima da média. Esse procedimento deve exibir
-a média e o resultado da contagem. Faça um programa que declare as devidas variáveis e
-acione os procedimentos.*/
 using System;
 
 class Exercicio02{
@@ -45,6 +40,7 @@ class Exercicio02{
         }
         
         //imprimir os resultados
+        Console.WriteLine();
         Console.WriteLine($"A média da turma foi: {media:0.00}");
         Console.WriteLine("O número de alunos com a nota acima da média, foi: " + acimaMedia);  
         Console.WriteLine();         

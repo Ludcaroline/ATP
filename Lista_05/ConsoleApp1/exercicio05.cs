@@ -1,6 +1,3 @@
-/*Faça uma função que sorteie 3 números (entre 10 e 50) e retorne em um vetor. Depois crie
-um procedimento que leia as tentativas do usuário para acertar um destes números. O
-programa só deve parar quando o usuário acertar um número sorteado.*/
 using System;
 
 class Exercicio05{
