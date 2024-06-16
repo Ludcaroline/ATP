@@ -45,8 +45,7 @@ class Exercicio07{
         int soma = 0;
         for(int c = 0; c < m.GetLength(1); c++)  //repetição para somar os elementos da linha 4
         {
-            soma += m[4,c];
-            Console.WriteLine(soma);
+            soma += m[4,c];    
         }     
         return soma;
      }
@@ -58,7 +57,6 @@ class Exercicio07{
         for(int l = 0; l < m.GetLength(0); l++)
         {
             soma += m[l,2]; //coluna selecionada para a soma
-            Console.WriteLine(soma);
         }
         return soma;
      }
@@ -73,7 +71,6 @@ class Exercicio07{
             for(int c =0; c < m.GetLength(1); c++){ 
                 if(l==c){ //condição para pegar os elementos da diagonal principal,
                     soma += m[l,c]; //pois o número das posisções são iguais
-                    Console.WriteLine(soma);
                 }
             }
         }
@@ -87,7 +84,6 @@ class Exercicio07{
         for(int l = 0; l <= n; l++)
         {         
             soma +=  m[l,n-l]; //soma com a posição da diagonal secundária que é (1, n-1)
-            Console.WriteLine(soma);
          }
         return soma;
      }
@@ -102,7 +98,6 @@ class Exercicio07{
             for(int c = 0; c < m.GetLength(1); c++)
             {
                 soma += m[l,c];
-                Console.WriteLine(soma);
             }
         }
         return soma;

@@ -1,11 +1,14 @@
 ﻿using System;
+
+/*classe principal, com chamada das outras classes(execícios), por meio do switch para as opções selecionadas. 
+Repetição while para continuar a rodar o programa*/
 public class lista05{
     public static void Main(){
         while (true)
         {
             int escolha;
 
-            Console.WriteLine("___________________________________________________________________________________________");
+            Console.WriteLine("_____________________________________________________________________________________________");
             Console.WriteLine();
             Console.WriteLine("Informe:");
             Console.WriteLine("1) Para executar o exercício 01.");
@@ -16,6 +19,8 @@ public class lista05{
             Console.WriteLine("6) Para executar o exercício 06.");
             Console.WriteLine("7) Para executar o exercício 07.");
             Console.WriteLine("8) Para executar o exercício 08.");
+            Console.WriteLine("9) Para executar o exercício 09.");
+            Console.WriteLine("10) Para executar o exercício 10.");
             Console.WriteLine();
             escolha = int.Parse(Console.ReadLine());
             Console.WriteLine();
@@ -56,10 +61,18 @@ public class lista05{
                 Exercicio08 exercicio08 = new Exercicio08();
                 Exercicio08.Rodar();
                 break;
-            }
-            
-        }
-        
+                case 9:
+                Exercicio09 exercicio09 = new Exercicio09();
+                Exercicio09.Rodar();
+                break;
+                case 10:
+                Exercicio10 exercicio10 = new Exercicio10();
+                Exercicio10.Rodar();
+                break;
+                default:
+                Console.WriteLine("Opção inválida, digite novamente");
+                break;            
+            }            
+        }        
     }
-
 }
