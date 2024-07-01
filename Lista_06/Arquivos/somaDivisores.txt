@@ -1,0 +1,1 @@
+A soma dos divisores de 150 é: 372

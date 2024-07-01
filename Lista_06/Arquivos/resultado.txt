@@ -1,0 +1,4 @@
+Faturamento mensal: R$ 83,33
+Faturamento anual: R$ 1.000,00
+Valor ganho com multas no mês: R$ 1,67
+Valor gasto com manutenção anual: R$ 60,00

@@ -69,6 +69,9 @@ public class Lista04{
                     Console.WriteLine("Opção inválida!");
                     break;
             }
+            Console.ReadKey();
+            Console.Clear();
         }
+        
     }
 }
